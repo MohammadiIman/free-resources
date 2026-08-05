@@ -60,6 +60,7 @@
   - [تجربه کاربری و رابط کاربری (UI/UX)](#تجربه-کاربری-و-رابط-کاربری)
 - [دوره های آموزشی در یوتیوب](#دوره-های-آموزشی-در-یوتیوب)
   - [پایتون (Python)](#پایتون-2)
+  - [فست ای پی (FastAPI)](#فست-ای-پی-fastapi)
   - [جاوا (Java)](#جاوا-1)
   - [جاوااسکریپت (Javascript)](#جاوااسکریپت-2)
   - [سی (C)](#سی-1)
@@ -466,6 +467,10 @@
 11 . [پایتون پیشرفته استاد جادی](https://www.youtube.com/watch?v=KG3FIXyWFS4&list=PLAu43_uf7P1-jro1hIQ4uB4kUh02vvb3n)
 
 12 . [آموزش پایتون از مقدماتی تا پیشرفته](https://youtube.com/playlist?list=PLSccONlqbvwfRfFzJiaUSuLvsXJc7LYkP&si=esbfHOXXxp73wL5t)
+
+### فست ای پی (FastAPI)
+
+1 . [آموزش صفر تا صد FastAPI](https://www.youtube.com/playlist?list=PL7MXODW7Gj1c1jviyYkRHKNeU_9BK0Ud7) : یک دورهٔ فارسی ۲۱ قسمتی برای یادگیری FastAPI از مباحث پایه تا ساخت API.
 
 ### جاوا
 
